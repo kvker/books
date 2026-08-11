@@ -23,11 +23,11 @@ jobs:
           node-version: 20
           cache: npm
       - run: npm ci
-      - run: npx honkit build
+      - run: npm run build
       - uses: actions/configure-pages@v4
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: _book
+          path: docs/.vitepress/dist
 
   deploy:
     needs: build
