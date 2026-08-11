@@ -7,8 +7,11 @@ export default defineConfig({
   cleanUrls: true,
 
   head: [
+    ['link', { rel: 'icon', href: '/favicon.ico', sizes: 'any' }],
+    ['link', { rel: 'apple-touch-icon', href: '/apple-touch-icon.png' }],
     ['meta', { property: 'og:title', content: '污斑兔的书籍作品' }],
     ['meta', { property: 'og:description', content: 'AI 使用能力八级、AI Context Workspace — 污斑兔(Wubuntu)的 AI 技术书籍作品集' }],
+    ['meta', { property: 'og:image', content: '/logo-256.png' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
   ],
