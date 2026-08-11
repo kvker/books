@@ -85,7 +85,7 @@ export default defineConfig({
 
     footer: {
       message: '基于 CC BY-NC-SA 4.0 许可协议发布',
-      copyright: 'Copyright © 2026',
+      copyright: "Copyright © 2026 Wubuntu(污斑兔)"
     },
   },
 })
