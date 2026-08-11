@@ -3,16 +3,16 @@ layout: home
 
 hero:
   name: 污斑兔的书籍作品
-  text: AI 使用能力八级 & AI Context Workspace
-  tagline: 从 AI 入门到企业赋能，从对话协作到上下文管理
+  text: 我提供思路，AI 专业撰写
+  tagline: AI 使用能力八级 · AI Context Workspace
 
 features:
   - title: AI 使用能力八级
-    details: 认识 AI → 高质量对话 → Agent 工作区 → 复杂任务编排 → AI 自动化 → Agent 应用 → Agent 平台 → 企业 AI 赋能。八级递进，从个人到组织。
+    details: 从认识到精通，八级递进。个人到企业，覆盖 AI 对话、Agent 工作区、自动化、平台与赋能。
     link: /ai-8-level/
     linkText: 开始阅读 →
   - title: AI Context Workspace
-    details: 长期上下文管理方案。不讲 LangChain、不讲 RAG。只讲一件事：为什么你用了那么多 AI 工具，还是觉得 AI 不够聪明？
+    details: 长期上下文管理方案。不讲框架，不讲 RAG。只讲如何让 AI 真正理解你的项目。
     link: /acw/
     linkText: 开始阅读 →
 ---
