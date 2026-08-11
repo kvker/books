@@ -5,12 +5,11 @@ export default defineConfig({
   description: '从对话到协作的上下文管理',
   lang: 'zh-CN',
   cleanUrls: true,
-  base: '/acw-book/',
 
   themeConfig: {
     nav: [
       { text: '书架', link: '/' },
-      { text: 'GitHub', link: 'https://github.com/kvker/acw-book' },
+      { text: 'GitHub', link: 'https://github.com/kvker/books' },
     ],
 
     sidebar: {
@@ -80,12 +79,12 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/kvker/acw-book' },
+      { icon: 'github', link: 'https://github.com/kvker/books' },
     ],
 
     footer: {
       message: '基于 CC BY-NC-SA 4.0 许可协议发布',
-      copyright: "Copyright © 2026 Wubuntu(污斑兔)"
+      copyright: 'Copyright © 2026 Wubuntu(污斑兔)',
     },
   },
 })
