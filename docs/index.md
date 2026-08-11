@@ -12,7 +12,7 @@ hero:
       link: /前言
     - theme: alt
       text: GitHub
-      link: https://github.com/kvker/acw-gitbook
+      link: https://github.com/kvker/acw-book
 
 features:
   - title: 为什么AI协作比你想象的难
