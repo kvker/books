@@ -2,8 +2,8 @@
 layout: home
 
 hero:
-  name: 污斑兔的书籍作品
-  text: 我提供思路，AI 专业撰写
+  name: 污斑兔的书
+  text: 我有思路，AI 来撰写
   tagline: AI 使用能力八级 · AI Context Workspace
 
 features:
