@@ -12,6 +12,9 @@ docs/
 │   ├── index.md              # 书籍介绍页
 │   ├── 前言.md / 结语.md
 │   └── 各篇章目录/
+├── ai-8-level/               # 现有书籍：AI 使用能力八级
+│   ├── index.md              # 书籍介绍页
+│   └── 01-认识AI ~ 08-企业AI赋能/
 ├── .gitignore
 ├── AGENTS.md
 └── package.json
