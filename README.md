@@ -11,7 +11,7 @@ Wubuntu(污斑兔) 的 AI 技术书籍作品集。
 
 - [VitePress](https://vitepress.dev/) — 静态站点生成
 - [Cloudflare Pages](https://pages.cloudflare.com/) — 托管与部署
-- 自定义域名：`books.wubuntu.cn`
+- 自定义域名：[books.wubuntu.cn](https://books.wubuntu.cn)
 
 ## 本地开发
 
