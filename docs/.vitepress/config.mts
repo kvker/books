@@ -1,10 +1,17 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: 'ACW 书架',
-  description: '从对话到协作的上下文管理',
+  title: '污斑兔的书籍作品',
+  description: 'AI 使用能力八级、AI Context Workspace — 污斑兔(Wubuntu)的 AI 技术书籍作品集',
   lang: 'zh-CN',
   cleanUrls: true,
+
+  head: [
+    ['meta', { property: 'og:title', content: '污斑兔的书籍作品' }],
+    ['meta', { property: 'og:description', content: 'AI 使用能力八级、AI Context Workspace — 污斑兔(Wubuntu)的 AI 技术书籍作品集' }],
+    ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+  ],
 
   themeConfig: {
     nav: [

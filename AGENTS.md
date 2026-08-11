@@ -1,6 +1,6 @@
-# 书籍书架项目
+# 污斑兔的书籍作品
 
-本仓库是 VitePress 多书书架，托管在 Cloudflare Pages。每次 push 到 `main` 自动构建部署。
+Wubuntu(污斑兔) 的 VitePress 多书书架，托管在 Cloudflare Pages。每次 push 到 `main` 自动构建部署。
 
 ## 目录结构
 
